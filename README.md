@@ -4,4 +4,7 @@
 ##  Technologies Used:
 - HTML5
 - CSS3
+
+## Project Screenshot
+
 ![Portfolio_Screenshot](https://github.com/user-attachments/assets/6072a5bc-1e13-46ab-bbe0-f96e610456ac)
